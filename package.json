@@ -1,5 +1,5 @@
 {
-  "name": "exercicio02",
+  "name": "3-ano_exercicio02",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,15 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arthur3222/exercicio02.git"
+    "url": "git+https://github.com/slabcouski/3-ano_exercicio02.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arthur3222/exercicio02/issues"
+    "url": "https://github.com/slabcouski/3-ano_exercicio02/issues"
   },
-  "homepage": "https://github.com/arthur3222/exercicio02#readme",
+  "homepage": "https://github.com/slabcouski/3-ano_exercicio02#readme",
   "description": "",
   "devDependencies": {
     "sass": "^1.83.4"
