@@ -17,6 +17,7 @@
   "homepage": "https://github.com/slabcouski/3-ano_exercicio02#readme",
   "description": "",
   "devDependencies": {
+    "grunt-contrib-sass": "^2.0.0",
     "sass": "^1.83.4"
   }
 }
